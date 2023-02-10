@@ -1,0 +1,15 @@
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\bin\Debug\net6.0\Example005_if_else.exe
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\bin\Debug\net6.0\Example005_if_else.deps.json
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\bin\Debug\net6.0\Example005_if_else.runtimeconfig.json
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\bin\Debug\net6.0\Example005_if_else.dll
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\bin\Debug\net6.0\Example005_if_else.pdb
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.csproj.AssemblyReference.cache
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.AssemblyInfoInputs.cache
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.AssemblyInfo.cs
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.csproj.CoreCompileInputs.cache
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.dll
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\refint\Example005_if_else.dll
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.pdb
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\Example005_if_else.genruntimeconfig.cache
+D:\Женя\C#\EXAMPLE\EXAMPLE\Example005_if_else\obj\Debug\net6.0\ref\Example005_if_else.dll
